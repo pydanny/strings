@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 LONG_DESCRIPTION = open('README.rst').read()
 
-import stringtheory
+import strings
 
 setup(
     name='strings',
