@@ -32,4 +32,6 @@ Usage:
 Background
 -----------
 
-Inspired by an April Fool's Day joke.
+Inspired by my `StringTheory April Fool's Day joke`_, recently I wondered how hard would it be to implement strings the way I want them to be in Python.
+
+.. _`StringTheory April Fool's Day joke`: http://pydanny.com/fixing-pythons-string-class.html
